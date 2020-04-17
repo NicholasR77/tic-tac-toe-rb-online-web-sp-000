@@ -22,7 +22,7 @@ WIN_COMBINATIONS = [
 
 # Welcomes the user
 def welcome
-  puts "Hello there! Welcome to Tic-Tac-Toe!"
+  puts "Welcome to Tic Tac Toe!"
 end
 
 # Asks for the user's token
