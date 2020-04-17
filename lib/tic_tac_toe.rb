@@ -209,7 +209,7 @@ def play(board)
     end
   end
   if (draw?(board) == true)
-    puts "We have a draw!"
+    puts "Cat\'s Game!"
   elsif (won?(board) != false)
     puts "We have a winner! The winner is " + winner(board)
   end
